@@ -42,8 +42,8 @@ Add a new column named month_name that contains the extracted months of the year
 ## Exploratory Data Analysis (EDA): 
 Exploratory Data Analysis (EDA) serves as a crucial step in this project, aiming to address the listed questions and objectives.Through EDA, we delve into the Walmart sales dataset to gain insights and uncover patterns that contribute to understanding sales performance, product trends, and customer behavior. 
 
-## Conclusion:
-Business Questions To Answer
+
+# Business Questions To Answer
 
 ## Generic Question:
 1. How many unique cities does the data have?
