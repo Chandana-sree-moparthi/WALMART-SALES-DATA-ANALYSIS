@@ -103,4 +103,4 @@ $ total = VAT + COGS\= 16.0265 + 320.53 =
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\=\frac{16.0265}{336.5565} = 0.047619\\approx 4.7619% $
 
 
-## The dataset used in this project, comprising historical sales data for Walmart stores, was sourced from Kaggle. Specifically, the data was obtained from the Kaggle Walmart Sales Forecasting Competition. The dataset is provided in CSV format and encompasses information on sales across various departments in 45 Walmart stores located in different regions, along with details of holiday markdown events.
+### The dataset used in this project, comprising historical sales data for Walmart stores, was sourced from Kaggle. Specifically, the data was obtained from the Kaggle Walmart Sales Forecasting Competition. The dataset is provided in CSV format and encompasses information on sales across various departments in 45 Walmart stores located in different regions, along with details of holiday markdown events.
