@@ -1,7 +1,7 @@
 # WALMART SALES DATA ANALYSIS 
 
 ## DESCRIPTION
-This project utilizes Walmart sales data to uncover trends, top-performing branches, and customer behavior, with the goal of optimizing sales strategies to improve the overall performance.The aims is to study how sales strategies can be improved and optimized.
+This project utilizes Walmart sales data to uncover trends, top-performing branches, and customer behavior, with the goal of optimizing sales strategies to improve the overall performance.The aim is to study how sales strategies can be improved and optimized.
 
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
